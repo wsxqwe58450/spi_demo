@@ -7,7 +7,6 @@ package com.wangshixiu.git;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello git1");
-        System.out.println("你好 git2");
+        System.out.println("hello git");
     }
 }
